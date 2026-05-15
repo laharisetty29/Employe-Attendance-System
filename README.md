@@ -107,3 +107,9 @@ npm run build
 ```
 
 Output will be in the `build/` folder.
+
+## The app is live now
+
+```bash
+https://employee-attendance-system-five.vercel.app/
+```
